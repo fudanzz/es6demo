@@ -1,0 +1,17 @@
+{
+  "name": "es6",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "fudanzz <fudanzz@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
